@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="homearray">
+        <item>ITEM 1</item>
+        <item>ITEM 2</item>
+        <item>ITEM 3</item>
+        <item>ITEM 4</item>
+        <item>ITEM 5</item>
+        <item>ITEM 6</item>
+        <item>ITEM 7</item>
+        <item>ITEM 8</item>
+        <item>ITEM 9</item>
+        <item>ITEM 10</item>
+        <item>ITEM 11</item>
+        <item>ITEM 12</item>
+        <item>ITEM 13</item>
+        <item>ITEM 14</item>
+        <item>ITEM 15</item>
+        <item>ITEM 16</item>
+    </string-array>
+</resources>
